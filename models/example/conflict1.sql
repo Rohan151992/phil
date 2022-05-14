@@ -1,1 +1,1 @@
-conflict1 from remote
+conflict1 from remote updated
